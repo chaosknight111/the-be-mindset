@@ -1,0 +1,36 @@
+{
+  "Project": "the-be-mindset-mobile",
+  "Source": {
+    "Type": "Excel",
+    "Placement": {
+      "Type": "OneDrive",
+      "Config": {
+        "ResId": "C62576FDA2F2250C!24163",
+        "AuthKey": "!ACujCYdUxfqTHwA"
+      }
+    },
+    "Config": {
+      "LanguageColumns": {
+        "English (default)": {
+          "Id": "en",
+          "Name": "English"
+        }
+      },
+      "PlatformKeyColumns": {
+        "Key (RN)": "Web"
+      }
+    }
+  },
+  "Destinations": [
+    {
+      "Type": "Web",
+      "Path": "resources",
+      "File": "Translations.json",
+      "Filter": {
+        "App": [
+          null
+        ]
+      }
+    }
+  ]
+}

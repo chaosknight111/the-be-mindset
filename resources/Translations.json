@@ -1,0 +1,70 @@
+{
+  "en": {
+    "common": {
+      "TRAIN": "TRAIN",
+      "CONNECT": "CONNECT",
+      "FAVORITES": "FAVORITES",
+      "SETTINGS": "SETTINGS",
+      "loading": "Loading...",
+      "Title": "Mental Fitness Training"
+    },
+    "sections": {
+      "Title": "Mental Fitness Training",
+      "Subtitle": "Build Unstoppable Mental Strength",
+      "Favorite_Meditations": "FAVORITE MEDITATIONS",
+      "Available_Offline": "AVAILABLE OFFLINE",
+      "LockedAlert.Title": "Purchase License",
+      "LockedAlert.Message": "You should purchase license to access this section.",
+      "Favorite_Empty_Message": "You don't have favorite meditations yet",
+      "Offline_Empty_Message": "You don't have favorite meditations yet",
+      "RateAlert.Title": "Rate app",
+      "RateAlert.Message.IOS": "If you are enjoying this app please leave a rating in the App Store",
+      "RateAlert.Positive": "Rate now",
+      "RateAlert.Negative": "Cancel",
+      "RateAlert.Message.Android": "If you are enjoying this app please leave a rating in the Google Play"
+    },
+    "settings": {
+      "Rate_App": "Rate App",
+      "Subscription": "Subscription",
+      "Support": "Support",
+      "Privacy_Policy": "Privacy\npolicy",
+      "Terms_Conditions": "Terms &\nConditions"
+    },
+    "subscribe": {
+      "Title1": "Get The #1 ",
+      "Title2": "Mental Fitness\nTraining App",
+      "Title3": "in the world",
+      "Subtitle": "Gain control of the way you feel, the way you behave and what you create in your life",
+      "Monthly": "Monthly",
+      "Yearly": "Yearly",
+      "Lifelong": "Lifetime",
+      "Cancel": "Cancel",
+      "Purchase": "Purchase",
+      "Purchase_Monthly": "You already own MONTHLY subscription",
+      "Purchase_Yearly": "You already own YEARLY subscription",
+      "Purchase_Lifelong": "You already own LIFELONG subscription",
+      "Restore_Subscription": "Restore Subscription",
+      "Restore_Message": "Your subscription restored",
+      "Restore_Title": "Restore subscription",
+      "Restore_PositiveBtn": "Continue",
+      "Goal_Get_Phases": "Get 8 phases of mental fitness training",
+      "Goal_Full_Library": "Access full library of guided meditations",
+      "Goal__Mindset_Transformation": "Create your mindset transformation",
+      "Cancel_Payment": "*Recurring billing. Cancel anytime",
+      "Buy_Item": "Choose",
+      "Free_Trial": "7 day free trial"
+    },
+    "subscriptionModal": {
+      "Points1": "Gain control of the way you feel",
+      "Points2": "Gain control of how you behave",
+      "Points3": "Gain control of what you create",
+      "Points4": "Get Started with 7 Days of Free Training",
+      "Header": "Mental Fitness Training",
+      "Subtitle": "Build Unstoppable Mental Strength",
+      "GetAccessButton": "GET ACCESS NOW",
+      "FreeTrialText": "7 day FREE trial then $89.99/year*",
+      "CancelAnytime": "Cancel Anytime",
+      "ViewOtherPlans": "View Other Plans"
+    }
+  }
+}

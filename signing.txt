@@ -1,0 +1,5 @@
+Google Play Console sign in information
+1. Keystore path: the-be-mindset-mobile/android/app/my-release-key.keystore
+2. Key alias: key0
+3. Key store password: wai3Ughi
+4. Key password: wai3Ughi
